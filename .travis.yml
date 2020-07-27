@@ -3,4 +3,24 @@ dist: focal
 group: dev
 
 script:
-  - sleep 3601
+  - sleep 550
+  - echo "test"
+  - sleep 550
+  - echo "test"
+  - sleep 550
+  - echo "test"
+  - sleep 550
+  - echo "test"
+  - sleep 550
+  - echo "test"
+  - sleep 550
+  - echo "test"
+  - sleep 550
+  - echo "test"
+  - sleep 550
+  - echo "test"
+  - sleep 550
+  - echo "test"
+  - sleep 550
+  - echo "test"
+  - sleep 550
