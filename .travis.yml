@@ -3,4 +3,4 @@ dist: focal
 group: dev
 
 script:
-  - sleep 3600
+  - sleep 3601
