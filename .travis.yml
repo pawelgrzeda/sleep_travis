@@ -24,3 +24,5 @@ script:
   - sleep 550
   - echo "test"
   - sleep 550
+  - echo "test"
+  - sleep 550
